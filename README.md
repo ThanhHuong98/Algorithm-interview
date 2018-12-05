@@ -1,3 +1,3 @@
 # Algorithm-interview
-Training before three moths. Good luck to me!!!
+Training before three months. Good luck to me!!!
 # Time limits, so try it everyday...
