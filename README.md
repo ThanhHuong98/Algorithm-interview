@@ -1,0 +1,3 @@
+# Algorithm-interview
+Training before three moths. Good luck to me!!!
+# Time limit, so try it everyday...
